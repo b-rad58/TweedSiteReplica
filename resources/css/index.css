@@ -1,0 +1,35 @@
+nav {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+}
+
+li {
+    display: inline;
+    font-weight: bold;
+    padding: 10;
+}
+
+.header_logo {
+    width: 15%;
+}
+
+.header_primary {
+    width: 25%;
+}
+.header_secondary {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    width: 60%;
+    float: right;
+}
+

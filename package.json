@@ -1,0 +1,18 @@
+{
+  "name": "TweedSiteReplica",
+  "version": "0.0.0",
+  "description": "An attempt at replication the Tweed website (tweed.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/b-rad58/TweedSiteReplica.git"
+  },
+  "author": "bgavan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/b-rad58/TweedSiteReplica/issues"
+  }
+}
